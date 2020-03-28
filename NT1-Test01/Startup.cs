@@ -13,8 +13,6 @@ namespace NT1_Test01
 {
     public class Startup
     {
-
-        //testing
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
